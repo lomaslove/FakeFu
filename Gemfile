@@ -72,3 +72,6 @@ group :doc do
 end
 
  
+gem "cloudinary", "~> 1.11"
+
+gem "activestorage-cloudinary-service", "~> 0.2.3"
